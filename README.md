@@ -10,8 +10,8 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 
 ## Process
 
-Data Preprocessing
-Modeling & Feature Selection
+* Data Preprocessing
+* Modeling & Feature Selection
 
 ## Conclusion
 
